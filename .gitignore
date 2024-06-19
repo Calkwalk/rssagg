@@ -1,4 +1,5 @@
 .vscode/
-rssagg.exe
+bin/
 
 .env
+*.http
